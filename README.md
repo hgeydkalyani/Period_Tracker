@@ -71,7 +71,7 @@ Run the server
 
 Access the Application
 
-Go to http://localhost:8080/period-tracker/login.jsp
+http://localhost:8080/Period_tacker/login.jsp
 
 Register a new user
 
